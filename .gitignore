@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Données intermédiaires (volumineuses, régénérables via le pipeline).
+# Ancré à la racine : dashboard/src/data/ (données du dashboard) reste versionné.
+/data/
+
+# Node / dashboard
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.vite/
+
+# Divers
+.DS_Store
+*.log
+.claude/settings.local.json

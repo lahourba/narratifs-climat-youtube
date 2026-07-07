@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background-color: #fafaf9; /* stone-50 */
+  color: #1c1917; /* stone-900 */
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Adoucit les transitions de la navigation */
+button {
+  transition: background-color 0.15s ease, color 0.15s ease;
+}

@@ -1,0 +1,5 @@
+# Pipeline Python — dépendances
+requests>=2.31,<3
+youtube-transcript-api>=1.0,<2
+anthropic>=0.40
+langdetect>=1.0.9

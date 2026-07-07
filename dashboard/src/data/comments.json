@@ -1,0 +1,6402 @@
+{
+  "v8_q0KXiCIM": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "K7dCkVSOTO0": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "I1iq2DXcEOM": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "g6CCOcrT8zg": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "BXxQ64OKF3o": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Rc1mftumuHY": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "O_2kGAAKt48": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "dU4qFuZws1Q": {
+    "climat": "mixte",
+    "sceptique_pct": 0,
+    "hostile_pct": 50,
+    "virulence": 0.6,
+    "n_comments": 2,
+    "status": "ok"
+  },
+  "gCMz_R7tF3g": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "gDZj0ObI9sk": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "iWGaYMa90v4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "oQF9MLy5Pt8": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "Hs-M1vgI_4A": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "l1pxV7Nro34": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "A1QyHNZRiGc": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 90,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "onmLrUh2cHU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "9H1nwqjzVVc": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GNghwTyqQ-g": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "Ej7S_QM6kLw": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "emVvaIHJBEc": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "yUWYmJsNhfw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "KEsrAmM07fs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "UopppCJfUHA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "77RobHGXR5I": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 75,
+    "hostile_pct": 60,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "AOJzHwhvWnQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "3L910uoOQpw": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 90,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qrThZ6SQfJE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "oAeMraTMJcY": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vkJDZ9LaK_w": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-F_ld8e1uTo": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "6OenzW3ODsI": {
+    "climat": "mixte",
+    "sceptique_pct": 40,
+    "hostile_pct": 35,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "U5LGnIDnSW0": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vDsjeKo3u3o": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 75,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Tnfk44DzBEs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Lb_JMsAipjw": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "3yvSPXDJBmM": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "xTYy5ShS__s": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Qcd4VIkCI3k": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "sWgk0ay73Ng": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 5,
+    "status": "ok"
+  },
+  "mMQwdUxF_bQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "npqzHpeIvhM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Gu71afu7UFI": {
+    "climat": "mixte",
+    "sceptique_pct": 40,
+    "hostile_pct": 30,
+    "virulence": 0.7,
+    "n_comments": 7,
+    "status": "ok"
+  },
+  "o_4ebfZriV0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1PlyKN58Bn8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MlUriJbg4q8": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 40,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "LWX8Cp091o0": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 70,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "E8Ohk4_nKcE": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "kJmMvfcX-Fg": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 90,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jVbc9sYAb0s": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "H3jIRRzF6d0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0DkJEwONJd8": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "P6EMJlt_Dsw": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "BqyUne1vSSs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1DIO_RxhGy4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0hSmyiwkVgw": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VzaOlaYyCmw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "j5d2gmTvPPU": {
+    "climat": "anxiete",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Sew_2qPq5qI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "i9N7pXyEdtE": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 90,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "IAXgwais5EA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HPVGFWEzgFw": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "CIlMn-FiE7g": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "24xteBcI1fE": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 100,
+    "virulence": 0.6,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "2JEz8fYJ3uM": {
+    "climat": "complotisme",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Zj_f8uaJN30": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "p2BboeuigQY": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MEOQ9a6EJrM": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 85,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qfUOEJXmeZg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "SjgRbA918Bg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1MTTg16qeRo": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Uz2SGx8ivzM": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "L8fs7wFA_eQ": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "9BqPuRymL7Y": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "9gDy80DtRRA": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "Hg7OWXZsvnk": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "0yTHYrw5b5g": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "jSzXb6ap2lc": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "My0iErOtrYs": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "qGHHPwpKNGM": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "37-5N-7WYr4": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "knpC0yhGqJQ": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "LV7MqR0RmEw": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "BGaUKIiF9rc": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "GHGB9fQfELk": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "JaPimFzOS-0": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 80,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "9s5Czj2P9EA": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 70,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0_nWOXZFiwA": {
+    "climat": "moquerie",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "H5NAhJoQjQ8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "2mS73tyMwUc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "h2XiYaYmNp0": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 40,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MWwJGhtsH54": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "rC7mKYfGFqA": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 70,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "r2NnDVOroJk": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YlFFkl39nEI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "U068p4RMgew": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gOK_xvSxCtY": {
+    "climat": "anxiete",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "59JS3Jb5eYA": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "tWLkvzxs3s8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "--41f-GXJJg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "zN-FiAuKZws": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TT8j4a10aKE": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0iY9uCc9-fg": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "alc3R4I6lMI": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qBW3KpXp1FM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-gVOh-mkRM0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "yOvfHCuWzRs": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 65,
+    "hostile_pct": 50,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "eR90KL4XS2k": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 85,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NK5ejA4oaYs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.15,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "97ACy01biw8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Ldj7AOGi6Jk": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "wtKUCezgVFM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VDS-jmgwiGU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VXKDndFnMo0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "wmQc0co0ymg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "UU7w1D2PKr4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "mMKRGqBiZhM": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ho6tShCUgdA": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "OBxPIYxwdIE": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VjGS8WnUSPI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "OQBcrKqyHJI": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MlrphGN950s": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 85,
+    "hostile_pct": 60,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "zmfRG8-RHEI": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 85,
+    "hostile_pct": 70,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "10rQ_2WbxC8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xvBnJGrUtw4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "FjnTQ85Wqb0": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 30,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-gqf8DjTLHo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "5x76O5lJcj0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8zw2WjbXHmk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "H8uq8ROnfeM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0aAN0_6Gq1g": {
+    "climat": "anxiete",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "wUmGzYr8S_w": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "SSN-np71d0Q": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "EmGqAIfbYJY": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "CwK0h4bKT4c": {
+    "climat": "neutre",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "D1apSZSXews": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "W0lLJVWZ0kU": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 80,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "c4Agvf47AFs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8Eh9m4U7GGk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HhyzdY9NfH8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jzDiliu4wUs": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "6JzLUA6203c": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "LaL0vh1gM80": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "utb8cUqi7mA": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 30,
+    "hostile_pct": 60,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "5zed9DFruTY": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 5,
+    "status": "ok"
+  },
+  "LDcR3K1oBus": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Npps_BHY7kg": {
+    "climat": "anxiete",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "7jZv9ZXO8Kg": {
+    "climat": "moquerie",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "je8qu2SiwaI": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Zn0k_EopH24": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "zjaUqUozwdc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "W1uG9bC04h4": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "CaVDuzKT6Ws": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "c7NTD5WQfTc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GFVwWymaw1o": {
+    "climat": "complotisme",
+    "sceptique_pct": 80,
+    "hostile_pct": 90,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1FwrrFgg4jw": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "2gMmpHAqHnM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Cz7pmNY-S5U": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "K35gOOQwxQc": {
+    "climat": "anxiete",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "nV6in1ePQMA": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 45,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GSzh8D8Of0k": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qSdN68jL-Lc": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "63XcvhlAEQw": {
+    "climat": "complotisme",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "q2hYYrE5Nko": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "QUfJDbmF1n0": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 45,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "fFlLDg723DQ": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 24,
+    "status": "ok"
+  },
+  "RnkYO-ARiZo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8uRuO_91fYA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "3SvGeVbPNSI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "OsiW3fqt2PI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "U3hE_B5PZEE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MoCpLYi2v60": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "cwyOEe7qzKU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Jo1H7eh1JCQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "lxN4dmIMf7c": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "kLn2qYig8ik": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "7Y-kYAngSXs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "znLOfTKRb6k": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "OSK6qg6jl9g": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-gjI8_Uyedo": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "bpTYoMKXk74": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jl11OFbLyCI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "K2c6Rucbi84": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "pwDMrsJ1hsw": {
+    "climat": "mixte",
+    "sceptique_pct": 40,
+    "hostile_pct": 30,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "RRiN6Gj3NS0": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 90,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "AUMJsh6-k7o": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 80,
+    "virulence": 0.8,
+    "n_comments": 5,
+    "status": "ok"
+  },
+  "UnqMavL70n0": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 5,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "FBkF8kCuDbc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "80RfjcExcaI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "SRLvVBtWwR8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-V0QJ5vRjy0": {
+    "climat": "complotisme",
+    "sceptique_pct": 90,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "_kgrSdrNtH4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "n_Kfco-kuFY": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "EO0LH5RGkuc": {
+    "climat": "neutre",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "pd6nlprs3no": {
+    "climat": "complotisme",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "7jtMpFT-NFg": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Sek2UOg_G-0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "duhV0bw49_c": {
+    "climat": "moquerie",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "XXWNLdLX1qw": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 30,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "QXPfxXIDSwY": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "_sqYx8K_m9c": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JFeCT7aiunE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "szaDZQdupe8": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 15,
+    "hostile_pct": 70,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MGCmLOGjtD8": {
+    "climat": "mixte",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Xa9G66KzYTU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gkUdfU41iUg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8SeeUU9GuGE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "2FkLYa76dvk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Yr40CEJNZ5g": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.15,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jAtAvvrOT_c": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 80,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ahk6fsUn7Mc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "LXuE0mg6NBQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0ZgEhk47Ces": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "OJXhD0UFLQ4": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 70,
+    "virulence": 0.75,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "dHAy2F3rLp4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "QtrAt9lxvuM": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 70,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "XP5nYS3lQzg": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 80,
+    "hostile_pct": 95,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JnEqeL9g_l8": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 60,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "nNXecYlUR2Y": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0k6v62kWF7k": {
+    "climat": "mixte",
+    "sceptique_pct": 45,
+    "hostile_pct": 25,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "chDl-u4va_A": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "7i52q1LEiIQ": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "iZdJdFNcNTY": {
+    "climat": "complotisme",
+    "sceptique_pct": 20,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MfJ3okOcaLs": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vwWbWwhbNak": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "iI8d4ZWf88o": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NZv5zBNIhvE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vxpv4tGKJ2I": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "XGq4WRTLfvc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GECZ8nJl50E": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "C8ZOwoPYDNc": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 90,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "5l5vmTOTEEY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Ww-uw-C-MpI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YQvMKAbS3tk": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "RUyU-hfc8FM": {
+    "climat": "complotisme",
+    "sceptique_pct": 85,
+    "hostile_pct": 60,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gIi6BkDuHVI": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "BBPBF5Q1Euc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Lrfibo00auc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "u-A8JBwPSY0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vV-Czf2mxPU": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HgfcZeGP7BA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "aGPKpx6pMko": {
+    "climat": "moquerie",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "fFLxQi-tf90": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "zSSz14-FsS8": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 5,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "RYjr0F-1zDU": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "i1MLv53ZRJM": {
+    "climat": "anxiete",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VvHOyitCziI": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 5,
+    "hostile_pct": 85,
+    "virulence": 0.75,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jKWdQ0kDfh4": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "tGwLeH6Dqh8": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 40,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "np_5szwonAc": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 30,
+    "hostile_pct": 60,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0_dRJLOym0U": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gJ7NLA8EZuE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0O-HnHnzeWI": {
+    "climat": "complotisme",
+    "sceptique_pct": 90,
+    "hostile_pct": 70,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8fg5h7FxTkU": {
+    "climat": "mixte",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "FfXa9bxIAw4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "pjPsqqSkNOo": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MspcyQfor6o": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GsPwmbQUh3c": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jGmDtgtou0A": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "wQXwN_BKQrw": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xVroWRO0duI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "I3sguj9m8ZQ": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 45,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jfpHXHmiBlU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vOFcZt0DeoU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "EzQ3enkH5VU": {
+    "climat": "anxiete",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HB9ddLJuSV0": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YwDG0yKQIj8": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "oEJJkrrxugs": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 30,
+    "hostile_pct": 90,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "oDyvDvQ5JkU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "mxgH1Dnf4tM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TD7On1r8C-8": {
+    "climat": "complotisme",
+    "sceptique_pct": 60,
+    "hostile_pct": 50,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "CbW9dLWzTQc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "o6XXYT3cEgc": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 70,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1YCC6qXvve0": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 30,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "A5OKU6BRPAk": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HvmZU9-tv5c": {
+    "climat": "moquerie",
+    "sceptique_pct": 10,
+    "hostile_pct": 60,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "bLkl_E7qMXw": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 85,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Rwqy7wXC1xY": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 5,
+    "hostile_pct": 75,
+    "virulence": 0.75,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "PCUfjkOMDEY": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qLeHVY-aatM": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "5UsKzOkOn-c": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "v70bF2SUNM0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "FFkSWgiGyyo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "awQZ1Gr4B4w": {
+    "climat": "moquerie",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GkbkEsPuACw": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "rdsm5XqPt7g": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "6vHNJDrNqfI": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 30,
+    "hostile_pct": 60,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "RrHy9wjeYTc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NCfFEHcO9nE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 4,
+    "status": "ok"
+  },
+  "UDAuIVEsxzU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.15,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "pLuoZ851VVA": {
+    "climat": "mixte",
+    "sceptique_pct": 35,
+    "hostile_pct": 40,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "3aPh6BJuOTU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "cr3nnVdPQ_w": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 5,
+    "status": "ok"
+  },
+  "u9T5h8hQ0Yk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "PeYNDhAexVc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "bt_p8fptF20": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0-G9NltZaCg": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 60,
+    "hostile_pct": 85,
+    "virulence": 0.75,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ZLIjmjGOCF4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "f0oQO8v25VU": {
+    "climat": "anxiete",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "zFzp_SJUMVM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "RNHatwJ7bTM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 2,
+    "status": "ok"
+  },
+  "RkCWRtMc6qY": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 90,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "79FpTKN4wpw": {
+    "climat": "anxiete",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ZKpZTtlKLJs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "7zasQm0hfiA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "L_4fOOg46vM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "F0CK8r68mi8": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 80,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TJxNIREm2PI": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 85,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "rWBWnKxXuhc": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "cHBeKYHyuYI": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 90,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "OxyMzJMf92w": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gBHSmwxgLfQ": {
+    "climat": "anxiete",
+    "sceptique_pct": 15,
+    "hostile_pct": 30,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gPy0L_k4PdM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-bkObO-6hHA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vk5TtL9t-DQ": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "grvFDuKlBc0": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "EPAX5_21_FI": {
+    "climat": "mixte",
+    "sceptique_pct": 45,
+    "hostile_pct": 30,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JbqWBDXEQS8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "LL9iGaDk4bQ": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 75,
+    "hostile_pct": 75,
+    "virulence": 0.8,
+    "n_comments": 4,
+    "status": "ok"
+  },
+  "0nbvO3poSwc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "uAcRt52JaMA": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "XbrcUz0pu80": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "rTGL6TAvwcU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "J_g4DeGtCpM": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 60,
+    "hostile_pct": 90,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "au91i2o0spc": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 20,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JP13eLNz390": {
+    "climat": "moquerie",
+    "sceptique_pct": 10,
+    "hostile_pct": 30,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "okFxckRQhwI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ROjmT7mKpCQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "PqSq7WWiywk": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 70,
+    "virulence": 0.65,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "sQnzP2VhJp4": {
+    "climat": "moquerie",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "aW94kvZlnVY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "cdhJRTc5wkU": {
+    "climat": "neutre",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "9-mtY0xXtMw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Tx3xHIeQqlM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0yhEO0Ayhjs": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 85,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HyUlP_mFfN8": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Iqvr9MmqgMg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jilfPYVFQ80": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 35,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "FCQbt_U2iqY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "WKx513a12sw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "2Fp0D9AqwuE": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 16,
+    "status": "ok"
+  },
+  "PAAvODRhvlk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "lIzlPTJ41rQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gOf5mRjcChc": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Qfjwy_euVfo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1dgjIeR5DBY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HMystmGbctw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "oU1C1Mj_7t4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "7tpa9jAdlKU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 11,
+    "status": "ok"
+  },
+  "Ztc6amnWMyc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "EkyTtDRraTk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "6o7hHRKQa10": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "tlndpcnCCw8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gwT0y7KHs4o": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "wDd1u-T7mWk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "W_-TaXw4Mqs": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 80,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "hNMRSUFuHPg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "kGjVo0Gq5Mo": {
+    "climat": "mixte",
+    "sceptique_pct": 40,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "j-C7A8kmJuQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qZrbuJoi82E": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 3,
+    "status": "ok"
+  },
+  "3k8_qxviD_0": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "S2pCMR9lNNs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "glXN2wVIQXA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8mrLRHcTUD0": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 30,
+    "hostile_pct": 85,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "XsXcwgYmH1k": {
+    "climat": "complotisme",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "bc-EsQWX2e8": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "kazOZnXyc3w": {
+    "climat": "complotisme",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "T0jsXvdIinU": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MfU5Kaxetg4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xEJWXk6ex58": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 20,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "BVnCa4A-Hqg": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "dtQZmcxm0qE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "cnn270WxbwE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Ff0AYRWrnGY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "R31v28uS_8k": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "bhir0ysB3Rs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-fS4DaHt7DQ": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qtJYpKxjn-A": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xtoTHuvH3sw": {
+    "climat": "anxiete",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "89dd0VoQ2_E": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Ii9WRok7UEo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "wQCU_O8p52E": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 20,
+    "virulence": 0.2,
+    "n_comments": 2,
+    "status": "ok"
+  },
+  "0zNZVYZJ95o": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ByqdAllt0dU": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "KAPzxR9VYRI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "viJSBZ06fdU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 2,
+    "status": "ok"
+  },
+  "wYo13JKuEK0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "W6RhErre7Yw": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 80,
+    "virulence": 0.85,
+    "n_comments": 18,
+    "status": "ok"
+  },
+  "El156cValNE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "rP3XuM0QPRk": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "F96pTEZXFiQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xryBhPUK4Vs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vOHJackGxmI": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YsA8g4YrSUE": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 5,
+    "hostile_pct": 85,
+    "virulence": 0.75,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1uMALMdbFQQ": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "j5atFbISiGQ": {
+    "climat": "moquerie",
+    "sceptique_pct": 15,
+    "hostile_pct": 5,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "hESxYif5pdI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "b3Um2LwCm84": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "lBrNbed57ag": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 25,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "IZG-e_PWeBQ": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "N69NtpWlW6k": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "yjXy35sXU08": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "yEqhPRWzVeM": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 70,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VYQUqWhiTY8": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 85,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "v-2FUXShYQQ": {
+    "climat": "anxiete",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "64EHipxEh9c": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gaFE9Eq19t0": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 70,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TpM8BRq-n-A": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "uyg-sK1CYfU": {
+    "climat": "anxiete",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Su_RtGbC4uE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "DJNNYIhDytM": {
+    "climat": "mixte",
+    "sceptique_pct": 45,
+    "hostile_pct": 30,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "QKM9CwQOlo0": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 60,
+    "virulence": 0.75,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "WBSNY9JnbGE": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 70,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "iVvPyY8pSw8": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jnkwOE7RbAE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "yWMxM8YQcN4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "hvezbASwZTY": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 65,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "btyD2R4K0JU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "iuy2AKVUR8o": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qV7tscWEaE8": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "2hvpWeMe2JM": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 90,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8HupBvCKKHY": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "h8MDVfWecNo": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 45,
+    "hostile_pct": 70,
+    "virulence": 0.85,
+    "n_comments": 18,
+    "status": "ok"
+  },
+  "dhftLRrXakI": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 5,
+    "hostile_pct": 90,
+    "virulence": 0.95,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "dzDlKbFYgNI": {
+    "climat": "mixte",
+    "sceptique_pct": 35,
+    "hostile_pct": 25,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "6eSde1tBqFo": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "v1xPxfXbsEU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "7Z0YDbJ7xNs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YinOSpvTwWY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "H1CoqXaX5_8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "dykSjXQhSjM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Ta_qxWjEun0": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.4,
+    "n_comments": 4,
+    "status": "ok"
+  },
+  "5lWLjLi_YJo": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 70,
+    "virulence": 0.75,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "lmZokRqVCUE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "iiKuUElvGhM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MfdViaZv4vs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "b-LAvXwBCBo": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "f0wvuaf27v0": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 65,
+    "hostile_pct": 40,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "U_yOBlI0_W0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "CmEg1NdnlWA": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "AQlqQEhVi1M": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "SFo2kwQOEj4": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "uGUXlN2Quyc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "DhhHzTqAHiI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "V66hlLruZTU": {
+    "climat": "neutre",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NaMHS16KZoU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.15,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8N_FvMbDcso": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "DxHwUt87izg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qOTRUIIqCes": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MSfabFsbs6M": {
+    "climat": "neutre",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "v4Z9sjVmj7c": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xbdUlfYCRwc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JWfIufWnFWQ": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 30,
+    "virulence": 0.4,
+    "n_comments": 3,
+    "status": "ok"
+  },
+  "aPkO7Ti7tEk": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "lxSrYEuh4Lw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TBSAOmpjuQI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 3,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0qO3Lgf3Bg8": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 35,
+    "hostile_pct": 50,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TjN8NRIb-Ns": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Edaavc2JMLg": {
+    "climat": "complotisme",
+    "sceptique_pct": 30,
+    "hostile_pct": 70,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "b4ocB6Xfovw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YUkkfTWECL4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "hhh82F6fNOs": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xx55qcGdXOo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 15,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "KYUIWeDaI0k": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "3uKsCs8Y6v8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 25,
+    "virulence": 0.3,
+    "n_comments": 4,
+    "status": "ok"
+  },
+  "MTSrX6x_y3g": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 0,
+    "virulence": 0.3,
+    "n_comments": 8,
+    "status": "ok"
+  },
+  "byCoDqEyyYg": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 30,
+    "hostile_pct": 80,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NJwLlgVspcM": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 65,
+    "hostile_pct": 85,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "bJPPlz0-SY4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 25,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YyY5gtXxtho": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 70,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "5FSGbcxrzuo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "iafyW3ZSu-U": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VI8X5uwh6A0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "6iB12y-hgMY": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 40,
+    "virulence": 0.5,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Ql7JflloUFA": {
+    "climat": "complotisme",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NVUpYPGrlMc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "WLWPU3bgVZ0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "2egyzS5oEMY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "U0WT6fBZ86M": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 30,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "OwEMdoBHRRQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "IPEyMYBRCZg": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 6,
+    "status": "ok"
+  },
+  "XVxZ1Fwo7do": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1aZvWNgpBow": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "K6AXUyzIn00": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GQ5x0216Ly8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "C_UTlTiVQ_0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "e-WjSzaJzPw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "UZ3wj4JUB8Y": {
+    "climat": "mixte",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "WWCTVnWpM4k": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "my6-AQLo5vs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "LWrBT1cG3ko": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "szeMfMiSvcw": {
+    "climat": "complotisme",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VwRmSnZWfTc": {
+    "climat": "mixte",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 2,
+    "status": "ok"
+  },
+  "yAZdobZvY3Q": {
+    "climat": "complotisme",
+    "sceptique_pct": 70,
+    "hostile_pct": 80,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HbD1nKs1hSs": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 16,
+    "status": "ok"
+  },
+  "HkVuM5x8Oec": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "M6cQ0WKBjNg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "RhbY5DxwXrQ": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "Jp_-Y1hzddY": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 5,
+    "hostile_pct": 70,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "71EopUDDJ04": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1MVSdI1FvM4": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 90,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Ltcp-gvXngg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Himksybgkgs": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 25,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ZFshJrEA6sA": {
+    "climat": "complotisme",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "K46PrAUPjVs": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "IV520gOwkjo": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 30,
+    "virulence": 0.4,
+    "n_comments": 9,
+    "status": "ok"
+  },
+  "15rnlaBj5z8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "V09H7J85UjY": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "IkNphbjqAJA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.15,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-GPzTT_Fy1E": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 45,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Qckx41WNW3g": {
+    "climat": "complotisme",
+    "sceptique_pct": 85,
+    "hostile_pct": 90,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Zz5eHhAoc4Y": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "oLTxRWCjDSw": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 25,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "KAeuC7iEKsU": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-cSnaqs_558": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "EHgn2qwz-6M": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MT_J-bf8Rcs": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "I-NgWVWnXwk": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 5,
+    "hostile_pct": 85,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "A11O6g-OTZ4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "p-VuRpkrNto": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "DHoGRSgB_4U": {
+    "climat": "neutre",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 23,
+    "status": "ok"
+  },
+  "e0dFc30pJlQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "m_KKBg3pNEk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "oDeobjfZodY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 2,
+    "status": "ok"
+  },
+  "RmDIW2mGhlw": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "k3WXXVVkBfU": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "wXqIZxV6VHE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "XNQkWWD8jgQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "_2AWvUUKcuc": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "6RxHkzSWWj4": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "cI0wdEwF2_o": {
+    "climat": "complotisme",
+    "sceptique_pct": 60,
+    "hostile_pct": 70,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "19_izAbdfb0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8npOCMuxXrc": {
+    "climat": "mixte",
+    "sceptique_pct": 0,
+    "hostile_pct": 50,
+    "virulence": 0.4,
+    "n_comments": 4,
+    "status": "ok"
+  },
+  "59ESgUmEpig": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "E4DTlAQbM-c": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "hdj9TqcDsoo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NXHzt-dnNZY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "g3ndvXMCZhA": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 85,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "idtSoTE9EoY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "7a6vIFxdg6M": {
+    "climat": "anxiete",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jkWlRN-_6GY": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 30,
+    "hostile_pct": 85,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ka51ohqn5aA": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "fJWQVCp_Xbs": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 30,
+    "hostile_pct": 60,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TOiCIS_SD-Y": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "oE3nIMdToEY": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 40,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "fD2_r6knGfQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gVB8HJ8o4KA": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "KvnkApxu66A": {
+    "climat": "neutre",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "EwXJa4LE_Sw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "KDJNBGGBxVI": {
+    "climat": "moquerie",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "rNPjavJXVFA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TVFBA5Msgos": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 60,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "_KTPCr-tOd8": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 28,
+    "status": "ok"
+  },
+  "xWHizQJR8f0": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 40,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "AnF1h6sKHJg": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 27,
+    "status": "ok"
+  },
+  "cX9QjfzTbJ8": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TZ9bq7PvWF8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "2Ys8J5x_YLY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "sg6_TcYvD5s": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "l0G2jkDv2WU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JCRNNVpVQW0": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gnbu6oXD-7M": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NB9WugvjWqM": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 70,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VqD0P1mwPX4": {
+    "climat": "complotisme",
+    "sceptique_pct": 100,
+    "hostile_pct": 80,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "5mmXYxx5SBs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1mPxQubyA7k": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 60,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 7,
+    "status": "ok"
+  },
+  "1dBv2JzW_n4": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "b_D4Uey9toM": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 25,
+    "virulence": 0.4,
+    "n_comments": 27,
+    "status": "ok"
+  },
+  "miOFJscpUMo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0SmciO3YFkI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "cN_QaUxRsaw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "obfth5JIBuE": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "WZb-y_N4ZwY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "zmfOeATX4fY": {
+    "climat": "mixte",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "BzX8cL5jrdQ": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "oM7SRcj_Utg": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 17,
+    "status": "ok"
+  },
+  "HEkU9WLuhDE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VaT1hOZY3LE": {
+    "climat": "complotisme",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "r0YSJPHJlr0": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 30,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "eruVCRrIkCY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "F56ZxcPMDIk": {
+    "climat": "moquerie",
+    "sceptique_pct": 30,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "womHDOe8U04": {
+    "climat": "mixte",
+    "sceptique_pct": 0,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YbebLbnGyoU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "bLrDqKFE9_E": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ILqGuop3oWc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ivOqSYP_MPc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "x6F8eq48jnY": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 7,
+    "status": "ok"
+  },
+  "4lOOJm8Q8kw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vLWHPrZHQxM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "KLgCAAaMTss": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xWex5aTnneU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "RxTpo9FrOXs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-wwf7SqbcJE": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 85,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "v80Jz46kfaE": {
+    "climat": "moquerie",
+    "sceptique_pct": 45,
+    "hostile_pct": 30,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "CdKBKS87fds": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "6uuInIX6Az8": {
+    "climat": "mixte",
+    "sceptique_pct": 45,
+    "hostile_pct": 30,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ly0NQIFNecg": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 85,
+    "virulence": 0.75,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "epGi6pOyrm4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 5,
+    "status": "ok"
+  },
+  "0JjtMRDQdg8": {
+    "climat": "anxiete",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "zcPcOaXFMR8": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 85,
+    "hostile_pct": 90,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "sxQNPFlOTro": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Bcg9yDp4Azs": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "eiaYPEieRmg": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "IUJai3fzNek": {
+    "climat": "mixte",
+    "sceptique_pct": 55,
+    "hostile_pct": 30,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "d_BDUb_-oh0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YexmmJk6j_U": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vHCQk2_8pew": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0ee5rxCh-dI": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "W981jRU1H5g": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 30,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "9Ytc6g-n5r0": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "SRZTRjN4oAY": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "SvYEOh7VDVU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "oxzU565SlRM": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 30,
+    "hostile_pct": 70,
+    "virulence": 0.85,
+    "n_comments": 20,
+    "status": "ok"
+  },
+  "Q-2uHKtUEto": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "LMHk29F251E": {
+    "climat": "anxiete",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "zNO5Rvbr2f8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 15,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "UotJ1-_hUxw": {
+    "climat": "complotisme",
+    "sceptique_pct": 40,
+    "hostile_pct": 20,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "5Z3gDu0aTbE": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "9u-e5H0pDrI": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 15,
+    "hostile_pct": 70,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Ww6a94u58EQ": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 35,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JuVXbFhGm-E": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 25,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "n89W2lIYHlI": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 65,
+    "hostile_pct": 40,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VVUOfxdWWEc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "goceQuwWwKA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0w8JH55ccWY": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "_z2LPa0ddZo": {
+    "climat": "complotisme",
+    "sceptique_pct": 45,
+    "hostile_pct": 20,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "tT0o9qLk5YQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xn3qe6kuQUo": {
+    "climat": "mixte",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HaLav92q8_I": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "_kp6qrK28Q4": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "RfQQSZieB4s": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "neKS8MCcklw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xWFZ6_GW-xU": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "disabled"
+  },
+  "dr1qwsVWNW4": {
+    "climat": "anxiete",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "gsxPbl6nDCA": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qVgxdoKapt8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qEvmHqapXIw": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 85,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NaGYp_tYLn8": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "jDmUr6fmx3k": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "nLcRgsBii0w": {
+    "climat": "mixte",
+    "sceptique_pct": 40,
+    "hostile_pct": 30,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TAt3jMACaR0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "LKuJAvk5QNU": {
+    "climat": "anxiete",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "FrzZvtnxoF8": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "YGh6luOwCCU": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 65,
+    "hostile_pct": 95,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "fZGrq4yc0zw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "nmMKU7BgQ-Q": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.3,
+    "n_comments": 4,
+    "status": "ok"
+  },
+  "FKVukZPRj8c": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 22,
+    "status": "ok"
+  },
+  "bk_mfEC6bNA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "AuTttTpHjcg": {
+    "climat": "complotisme",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "2z70Jmvuu90": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "uzqHlRHJDKY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "5tlfICUGwl0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "U8QLHCHKEic": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 30,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "91k4gpcDI7o": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 40,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "fyP9Kw4Xfn8": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "j6Hx4posdhY": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 90,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "10wOAMt2TCU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "i0ZpFm7_YK8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "3SbTlGXUZKE": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "o9sLxU-1bI0": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 75,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vAmk_-YU0hQ": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "VHjUv8kY0W8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "FJq61WdI0Xs": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "XLRUcdMbZ_M": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "brrXYOrgST0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "SRvy86del30": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 25,
+    "virulence": 0.3,
+    "n_comments": 4,
+    "status": "ok"
+  },
+  "9CCQleS3iWI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "48O2yM7xFLw": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "4LUVYkFWPY0": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "tmygMomus5A": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 0,
+    "hostile_pct": 70,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "OA6481zUQuc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "FDN5sCEi0K8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "OUGsRb1ZXP8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "qXMeoV0KVOo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 21,
+    "status": "ok"
+  },
+  "a4Wh7xzPA10": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "H9reFA5d34k": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 70,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "UycTHrSwtRE": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 22,
+    "status": "ok"
+  },
+  "QYixeo0Nb6U": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "n-NJ-B_IIFw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "af4oqsevAVg": {
+    "climat": "anxiete",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "E4i41-Dstok": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 25,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "fYMgKPfRjLs": {
+    "climat": "mixte",
+    "sceptique_pct": 45,
+    "hostile_pct": 35,
+    "virulence": 0.65,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "3HI-uuQM2is": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "iWOZVnha1tA": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 60,
+    "hostile_pct": 40,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "mzEUmJ4wybA": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 14,
+    "status": "ok"
+  },
+  "lqAeF-j4bYQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 7,
+    "status": "ok"
+  },
+  "6H74mvj0fAk": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "pdx09nmndzM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vJu5Mmcozbg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GHKqzG-D6rk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "BiPkSIpyeb4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "U7-R-M87VrA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "EYboFx8iQ-A": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 17,
+    "status": "ok"
+  },
+  "SJASkt-D1X8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0uy56e6GGko": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 60,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "XFQJrt2PUH8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "B0gcTnpbauc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "AC4cgpCGQ6A": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 5,
+    "hostile_pct": 85,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "tFV_6ygVvu4": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "FPZsh9VKyAg": {
+    "climat": "moquerie",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "XaV0PjP1ZWA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "5yJQPaiworg": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 30,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Euy5hBr8t7w": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 85,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "tfV5qWeh_fE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "6rLudg3Rj5I": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "AuQ37FDSYsQ": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "QIxK0CTeE6Y": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GBTE86WBqg4": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 70,
+    "virulence": 0.7,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "pACd6SIyy-Y": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "AGiOo1qX7sM": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "z5LfFtO9xQc": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 25,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Bo8JTHUF3zU": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "q7Odzm4OwYU": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 22,
+    "status": "ok"
+  },
+  "ZB20mjWYQKM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "8BcwUT5RnlQ": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "dpFgug--srE": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 45,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "zOeh42taD7A": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 13,
+    "status": "ok"
+  },
+  "pme4xNLJDGA": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 11,
+    "status": "ok"
+  },
+  "w_fIRBX29xI": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 1,
+    "status": "ok"
+  },
+  "KlDalfLMFtY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 2,
+    "status": "ok"
+  },
+  "NB9We5wwGPo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Ty-bcojRnfo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "4SZK_vir004": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "9OTVjJyio0s": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 85,
+    "hostile_pct": 70,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NRdaPrMNrkI": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "XWSJVjmjjE8": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "zDwDqM5cutY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "LINzxbPsMiA": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 40,
+    "virulence": 0.4,
+    "n_comments": 15,
+    "status": "ok"
+  },
+  "FxGh-iBZMOI": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "u2AGglaOeUc": {
+    "climat": "neutre",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "a6dvb9ho9pE": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 2,
+    "status": "ok"
+  },
+  "Q6JJyTElehU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NkPfDHz5KJ0": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 15,
+    "virulence": 0.4,
+    "n_comments": 24,
+    "status": "ok"
+  },
+  "lAZOy9j8pP8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "feixu1TYnzs": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JGA1PiK85x0": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 85,
+    "virulence": 0.75,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "ivSM8lCAItM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "t-GnT_-YSUk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 25,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "-UU47xmsdXQ": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "HjpemgTExVk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GLhlLrqUGj8": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 60,
+    "hostile_pct": 40,
+    "virulence": 0.7,
+    "n_comments": 3,
+    "status": "ok"
+  },
+  "jogsMpZy7gw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 27,
+    "status": "ok"
+  },
+  "oxcOiRgB968": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "f4BWhTeO948": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 85,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "SWmQUVv8Gi4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vtdWLnPIwTk": {
+    "climat": "mixte",
+    "sceptique_pct": 35,
+    "hostile_pct": 25,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "sSrpn5dTpeg": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 8,
+    "status": "ok"
+  },
+  "5WMpXWG6c-w": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 10,
+    "hostile_pct": 70,
+    "virulence": 0.8,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "TU3KZ7VUhwU": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "0gd3eUDxdOQ": {
+    "climat": "complotisme",
+    "sceptique_pct": 80,
+    "hostile_pct": 90,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "xITfaSfYAJo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "UH316liIhtA": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 40,
+    "virulence": 0.7,
+    "n_comments": 15,
+    "status": "ok"
+  },
+  "NLxaQoz377E": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "vCKGIErkUW4": {
+    "climat": "mixte",
+    "sceptique_pct": 20,
+    "hostile_pct": 40,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "lvcgbLceOMM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "D7FhofihPsM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "kk-nmbNJ9ko": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "tk-QuMCbw2I": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "7NS7KecKxNk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Rle1RRcGeWM": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "n8s2q-TtJd0": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "p0A-LE5R-zg": {
+    "climat": "mixte",
+    "sceptique_pct": 25,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "9pCLMnsTjUo": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 12,
+    "status": "ok"
+  },
+  "zikrhfwVUHQ": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 70,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "HWaaHcUuaZw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "MNa-6wSFRS0": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "nZWi_X3pLdQ": {
+    "climat": "mixte",
+    "sceptique_pct": 30,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "kIuQOihztbg": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "3DD9UQr6EmY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "1mi3_itPEG4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "3ke_2KXy3Yw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 15,
+    "hostile_pct": 20,
+    "virulence": 0.3,
+    "n_comments": 29,
+    "status": "ok"
+  },
+  "2NWlVj_ZDSo": {
+    "climat": "neutre",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JN9Apqyf-a0": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 40,
+    "hostile_pct": 90,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "UXVS9e9le90": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "NZiFwEe8cmQ": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 40,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "a4I9xEWCBfk": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "rXlEcth5Gxc": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "RlhLIUiexxw": {
+    "climat": "mixte",
+    "sceptique_pct": 10,
+    "hostile_pct": 20,
+    "virulence": 0.6,
+    "n_comments": 10,
+    "status": "ok"
+  },
+  "kGJ70JnPM78": {
+    "climat": null,
+    "sceptique_pct": null,
+    "hostile_pct": null,
+    "virulence": null,
+    "n_comments": 0,
+    "status": "none"
+  },
+  "M-zNobiaxcY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "j-pyxouLc2M": {
+    "climat": "mixte",
+    "sceptique_pct": 45,
+    "hostile_pct": 30,
+    "virulence": 0.4,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "hK6LzqOs6Wo": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "s5Ixzqrn4W4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "GFLOgETuDn4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.05,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "eVHbBZ_kG6k": {
+    "climat": "mixte",
+    "sceptique_pct": 5,
+    "hostile_pct": 15,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "J8MAL_rE9e8": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "O05JiwLaKUw": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 5,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "5vmemJH6XbE": {
+    "climat": "moquerie",
+    "sceptique_pct": 75,
+    "hostile_pct": 0,
+    "virulence": 0.2,
+    "n_comments": 4,
+    "status": "ok"
+  },
+  "Ts_3yDeRuNM": {
+    "climat": "hostilite_ecologie",
+    "sceptique_pct": 20,
+    "hostile_pct": 85,
+    "virulence": 0.9,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "26ieaICn-JA": {
+    "climat": "scepticisme_deni",
+    "sceptique_pct": 65,
+    "hostile_pct": 40,
+    "virulence": 0.7,
+    "n_comments": 24,
+    "status": "ok"
+  },
+  "_HfO6V5wz8E": {
+    "climat": "mixte",
+    "sceptique_pct": 40,
+    "hostile_pct": 30,
+    "virulence": 0.6,
+    "n_comments": 8,
+    "status": "ok"
+  },
+  "lwBji8LluMY": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "SkcZGKi-QMg": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.2,
+    "n_comments": 21,
+    "status": "ok"
+  },
+  "6oiKU9s8Ssw": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 25,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Z3c7d9jHA3U": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.1,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "JG8q7R4kwB4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.2,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "wNGC5nTpIKk": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 25,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "x38Td_zuKuM": {
+    "climat": "hors_sujet",
+    "sceptique_pct": 5,
+    "hostile_pct": 10,
+    "virulence": 0.85,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "Jb2LSEblJa4": {
+    "climat": "adhesion_science",
+    "sceptique_pct": 0,
+    "hostile_pct": 0,
+    "virulence": 0.0,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "mVH-vnZJOaw": {
+    "climat": "moquerie",
+    "sceptique_pct": 10,
+    "hostile_pct": 15,
+    "virulence": 0.6,
+    "n_comments": 30,
+    "status": "ok"
+  },
+  "dEtA7HqMcKQ": {
+    "climat": "mixte",
+    "sceptique_pct": 15,
+    "hostile_pct": 10,
+    "virulence": 0.3,
+    "n_comments": 30,
+    "status": "ok"
+  }
+}

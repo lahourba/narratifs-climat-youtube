@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "janco-dashboard",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd dashboard && npm run dev -- --port ${PORT:-5199} --strictPort"],
+      "port": 5199,
+      "autoPort": true
+    }
+  ]
+}

@@ -1,0 +1,1328 @@
+{
+  "meta": {
+    "generated_at": "2026-07-07T21:14:32Z",
+    "total_videos_collected": 66314,
+    "total_videos_classified": 2385,
+    "total_views": 348002160,
+    "period_start": "2013-09-13T13:03:40Z",
+    "period_end": "2026-07-01T11:31:59Z",
+    "current_quarter": "2026-Q3",
+    "narrative_keys": [
+      "URGENCE_MOBILISATION",
+      "SCIENCE_PEDAGOGIE",
+      "SOLUTIONS_TECHNO",
+      "SCEPTICISME_MINIMISATION",
+      "CRITIQUE_INACTION",
+      "OPPOSITION_ECOLOGIE",
+      "ANXIETE_EFFONDREMENT"
+    ],
+    "tonalites": [
+      "urgence",
+      "anxiété",
+      "neutre",
+      "optimisme",
+      "colère",
+      "moquerie"
+    ],
+    "institutional_channel_ids": [
+      "UCEYjEYFApmoF217Ks1Tg4Sw",
+      "UCIjo06T9erEvYBXVIDUCxTA",
+      "UCJBmrvimOZNMCKoYr2k5_Yw",
+      "UCMzqWRZDxw6yOgKjP7-VraQ",
+      "UCe2_2k-_81Y4RNKBnlMjrLg"
+    ],
+    "institutional_views": 66578036,
+    "institutional_videos": 59,
+    "institutional_views_pct": 19.1
+  },
+  "narratives": {
+    "URGENCE_MOBILISATION": {
+      "views": 16228735,
+      "videos": 178,
+      "views_pct": 4.66,
+      "videos_pct": 7.46,
+      "inst_views": 0,
+      "inst_videos": 0
+    },
+    "SCIENCE_PEDAGOGIE": {
+      "views": 108265422,
+      "videos": 800,
+      "views_pct": 31.11,
+      "videos_pct": 33.54,
+      "inst_views": 1134926,
+      "inst_videos": 7
+    },
+    "SOLUTIONS_TECHNO": {
+      "views": 114145832,
+      "videos": 486,
+      "views_pct": 32.8,
+      "videos_pct": 20.38,
+      "inst_views": 65443110,
+      "inst_videos": 52
+    },
+    "SCEPTICISME_MINIMISATION": {
+      "views": 6011531,
+      "videos": 53,
+      "views_pct": 1.73,
+      "videos_pct": 2.22,
+      "inst_views": 0,
+      "inst_videos": 0
+    },
+    "CRITIQUE_INACTION": {
+      "views": 56731671,
+      "videos": 512,
+      "views_pct": 16.3,
+      "videos_pct": 21.47,
+      "inst_views": 0,
+      "inst_videos": 0
+    },
+    "OPPOSITION_ECOLOGIE": {
+      "views": 37264638,
+      "videos": 286,
+      "views_pct": 10.71,
+      "videos_pct": 11.99,
+      "inst_views": 0,
+      "inst_videos": 0
+    },
+    "ANXIETE_EFFONDREMENT": {
+      "views": 9354331,
+      "videos": 70,
+      "views_pct": 2.69,
+      "videos_pct": 2.94,
+      "inst_views": 0,
+      "inst_videos": 0
+    }
+  },
+  "evolution": [
+    {
+      "quarter": "2013-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 60563,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2013-Q4",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 0,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2014-Q1",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 0,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2014-Q2",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 0,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2014-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 0,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2014-Q4",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 0,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2015-Q1",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 0,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2015-Q2",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 33755,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2015-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 47330,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2015-Q4",
+      "URGENCE_MOBILISATION": 243041,
+      "SCIENCE_PEDAGOGIE": 2877871,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 203076,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2016-Q1",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 123228,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2016-Q2",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 61580,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 68703
+    },
+    {
+      "quarter": "2016-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 172931,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2016-Q4",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 199077,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2017-Q1",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 194253,
+      "SOLUTIONS_TECHNO": 68782,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 1170559,
+      "OPPOSITION_ECOLOGIE": 76815,
+      "ANXIETE_EFFONDREMENT": 210110
+    },
+    {
+      "quarter": "2017-Q2",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 57171,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2017-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 63499,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 1000677,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2017-Q4",
+      "URGENCE_MOBILISATION": 909018,
+      "SCIENCE_PEDAGOGIE": 147895,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 238598,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2018-Q1",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 189117,
+      "SOLUTIONS_TECHNO": 24648,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 676015,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 109366
+    },
+    {
+      "quarter": "2018-Q2",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 1278100,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 224190,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 612424
+    },
+    {
+      "quarter": "2018-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 520187,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 593533,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2018-Q4",
+      "URGENCE_MOBILISATION": 598078,
+      "SCIENCE_PEDAGOGIE": 454805,
+      "SOLUTIONS_TECHNO": 37388,
+      "SCEPTICISME_MINIMISATION": 32914,
+      "CRITIQUE_INACTION": 130631,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 62566
+    },
+    {
+      "quarter": "2019-Q1",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 553541,
+      "SOLUTIONS_TECHNO": 26364,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 1405488,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2019-Q2",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 358000,
+      "SOLUTIONS_TECHNO": 113893,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 619280,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2019-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 378193,
+      "SOLUTIONS_TECHNO": 105574,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 508854,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 66697
+    },
+    {
+      "quarter": "2019-Q4",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 527454,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 627834,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2020-Q1",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 837668,
+      "SOLUTIONS_TECHNO": 65690,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 35163,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 325176
+    },
+    {
+      "quarter": "2020-Q2",
+      "URGENCE_MOBILISATION": 51933,
+      "SCIENCE_PEDAGOGIE": 514063,
+      "SOLUTIONS_TECHNO": 232319,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 1363679,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 759296
+    },
+    {
+      "quarter": "2020-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 510713,
+      "SOLUTIONS_TECHNO": 0,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 66759,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2020-Q4",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 1392335,
+      "SOLUTIONS_TECHNO": 3161126,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 34392,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 24576
+    },
+    {
+      "quarter": "2021-Q1",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 580767,
+      "SOLUTIONS_TECHNO": 486826,
+      "SCEPTICISME_MINIMISATION": 26230,
+      "CRITIQUE_INACTION": 165916,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2021-Q2",
+      "URGENCE_MOBILISATION": 151657,
+      "SCIENCE_PEDAGOGIE": 1342708,
+      "SOLUTIONS_TECHNO": 43983,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 0,
+      "OPPOSITION_ECOLOGIE": 38077,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2021-Q3",
+      "URGENCE_MOBILISATION": 55050,
+      "SCIENCE_PEDAGOGIE": 634393,
+      "SOLUTIONS_TECHNO": 34934,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 32516,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2021-Q4",
+      "URGENCE_MOBILISATION": 207159,
+      "SCIENCE_PEDAGOGIE": 2323323,
+      "SOLUTIONS_TECHNO": 187697,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 336308,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 117856
+    },
+    {
+      "quarter": "2022-Q1",
+      "URGENCE_MOBILISATION": 41866,
+      "SCIENCE_PEDAGOGIE": 1289917,
+      "SOLUTIONS_TECHNO": 623059,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 192123,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2022-Q2",
+      "URGENCE_MOBILISATION": 285657,
+      "SCIENCE_PEDAGOGIE": 708763,
+      "SOLUTIONS_TECHNO": 7476265,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 1672236,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 171836
+    },
+    {
+      "quarter": "2022-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 3483022,
+      "SOLUTIONS_TECHNO": 1466900,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 238486,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 207149
+    },
+    {
+      "quarter": "2022-Q4",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 1708016,
+      "SOLUTIONS_TECHNO": 477721,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 454787,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 162885
+    },
+    {
+      "quarter": "2023-Q1",
+      "URGENCE_MOBILISATION": 482978,
+      "SCIENCE_PEDAGOGIE": 3156429,
+      "SOLUTIONS_TECHNO": 1680660,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 347504,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 368512
+    },
+    {
+      "quarter": "2023-Q2",
+      "URGENCE_MOBILISATION": 143592,
+      "SCIENCE_PEDAGOGIE": 1135053,
+      "SOLUTIONS_TECHNO": 6414428,
+      "SCEPTICISME_MINIMISATION": 23806,
+      "CRITIQUE_INACTION": 632606,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 108299
+    },
+    {
+      "quarter": "2023-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 1754872,
+      "SOLUTIONS_TECHNO": 5706312,
+      "SCEPTICISME_MINIMISATION": 987816,
+      "CRITIQUE_INACTION": 917843,
+      "OPPOSITION_ECOLOGIE": 56436,
+      "ANXIETE_EFFONDREMENT": 183042
+    },
+    {
+      "quarter": "2023-Q4",
+      "URGENCE_MOBILISATION": 268368,
+      "SCIENCE_PEDAGOGIE": 6900760,
+      "SOLUTIONS_TECHNO": 2815443,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 360725,
+      "OPPOSITION_ECOLOGIE": 493527,
+      "ANXIETE_EFFONDREMENT": 53220
+    },
+    {
+      "quarter": "2024-Q1",
+      "URGENCE_MOBILISATION": 144211,
+      "SCIENCE_PEDAGOGIE": 2488099,
+      "SOLUTIONS_TECHNO": 2432548,
+      "SCEPTICISME_MINIMISATION": 513885,
+      "CRITIQUE_INACTION": 917358,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2024-Q2",
+      "URGENCE_MOBILISATION": 662202,
+      "SCIENCE_PEDAGOGIE": 3563001,
+      "SOLUTIONS_TECHNO": 1148926,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 648593,
+      "OPPOSITION_ECOLOGIE": 0,
+      "ANXIETE_EFFONDREMENT": 0
+    },
+    {
+      "quarter": "2024-Q3",
+      "URGENCE_MOBILISATION": 269365,
+      "SCIENCE_PEDAGOGIE": 3947703,
+      "SOLUTIONS_TECHNO": 3509010,
+      "SCEPTICISME_MINIMISATION": 1382465,
+      "CRITIQUE_INACTION": 641742,
+      "OPPOSITION_ECOLOGIE": 436385,
+      "ANXIETE_EFFONDREMENT": 40028
+    },
+    {
+      "quarter": "2024-Q4",
+      "URGENCE_MOBILISATION": 469879,
+      "SCIENCE_PEDAGOGIE": 3482459,
+      "SOLUTIONS_TECHNO": 22170738,
+      "SCEPTICISME_MINIMISATION": 362114,
+      "CRITIQUE_INACTION": 2236137,
+      "OPPOSITION_ECOLOGIE": 346716,
+      "ANXIETE_EFFONDREMENT": 598531
+    },
+    {
+      "quarter": "2025-Q1",
+      "URGENCE_MOBILISATION": 665438,
+      "SCIENCE_PEDAGOGIE": 9324445,
+      "SOLUTIONS_TECHNO": 7291488,
+      "SCEPTICISME_MINIMISATION": 80554,
+      "CRITIQUE_INACTION": 2522314,
+      "OPPOSITION_ECOLOGIE": 1142042,
+      "ANXIETE_EFFONDREMENT": 382183
+    },
+    {
+      "quarter": "2025-Q2",
+      "URGENCE_MOBILISATION": 1510555,
+      "SCIENCE_PEDAGOGIE": 7379399,
+      "SOLUTIONS_TECHNO": 19219317,
+      "SCEPTICISME_MINIMISATION": 285909,
+      "CRITIQUE_INACTION": 6022447,
+      "OPPOSITION_ECOLOGIE": 2315570,
+      "ANXIETE_EFFONDREMENT": 454612
+    },
+    {
+      "quarter": "2025-Q3",
+      "URGENCE_MOBILISATION": 1003967,
+      "SCIENCE_PEDAGOGIE": 4625604,
+      "SOLUTIONS_TECHNO": 3629740,
+      "SCEPTICISME_MINIMISATION": 578580,
+      "CRITIQUE_INACTION": 2630413,
+      "OPPOSITION_ECOLOGIE": 7327519,
+      "ANXIETE_EFFONDREMENT": 283720
+    },
+    {
+      "quarter": "2025-Q4",
+      "URGENCE_MOBILISATION": 796425,
+      "SCIENCE_PEDAGOGIE": 5215493,
+      "SOLUTIONS_TECHNO": 7621643,
+      "SCEPTICISME_MINIMISATION": 266540,
+      "CRITIQUE_INACTION": 4862202,
+      "OPPOSITION_ECOLOGIE": 4042517,
+      "ANXIETE_EFFONDREMENT": 965213
+    },
+    {
+      "quarter": "2026-Q1",
+      "URGENCE_MOBILISATION": 756647,
+      "SCIENCE_PEDAGOGIE": 3577004,
+      "SOLUTIONS_TECHNO": 5644005,
+      "SCEPTICISME_MINIMISATION": 144161,
+      "CRITIQUE_INACTION": 4544053,
+      "OPPOSITION_ECOLOGIE": 6007278,
+      "ANXIETE_EFFONDREMENT": 25821
+    },
+    {
+      "quarter": "2026-Q2",
+      "URGENCE_MOBILISATION": 6511649,
+      "SCIENCE_PEDAGOGIE": 28062583,
+      "SOLUTIONS_TECHNO": 10203710,
+      "SCEPTICISME_MINIMISATION": 1326557,
+      "CRITIQUE_INACTION": 18808537,
+      "OPPOSITION_ECOLOGIE": 13388217,
+      "ANXIETE_EFFONDREMENT": 2992510
+    },
+    {
+      "quarter": "2026-Q3",
+      "URGENCE_MOBILISATION": 0,
+      "SCIENCE_PEDAGOGIE": 28280,
+      "SOLUTIONS_TECHNO": 24695,
+      "SCEPTICISME_MINIMISATION": 0,
+      "CRITIQUE_INACTION": 53585,
+      "OPPOSITION_ECOLOGIE": 188051,
+      "ANXIETE_EFFONDREMENT": 0,
+      "incomplete": true
+    }
+  ],
+  "top_channels": {
+    "URGENCE_MOBILISATION": [
+      {
+        "channel": "LIMIT",
+        "views": 2069193,
+        "videos": 14,
+        "channel_id": "UCAbFIrKZCYdKucQYnhxWnrA",
+        "institutional": false
+      },
+      {
+        "channel": "Et tout le monde s'en fout",
+        "views": 1552159,
+        "videos": 4,
+        "channel_id": "UC-2EkisRV8h9KsHpslQ1gXA",
+        "institutional": false
+      },
+      {
+        "channel": "Sur le front avec Hugo Clément -France Télévisions",
+        "views": 1015666,
+        "videos": 4,
+        "channel_id": "UClGvEUx13urexHOyrGpAqMA",
+        "institutional": false
+      },
+      {
+        "channel": "Salamandre",
+        "views": 890186,
+        "videos": 1,
+        "channel_id": "UCflOPSuqsfV4iyE0pOysgow",
+        "institutional": false
+      },
+      {
+        "channel": "Éthique et tac",
+        "views": 874048,
+        "videos": 23,
+        "channel_id": "UCa7klG2eM9MHpOfOvxMQpGw",
+        "institutional": false
+      },
+      {
+        "channel": "franceinfo",
+        "views": 834760,
+        "videos": 4,
+        "channel_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
+        "institutional": false
+      },
+      {
+        "channel": "C à vous - France Télévisions",
+        "views": 779102,
+        "videos": 6,
+        "channel_id": "UCejTWYquMXD_MFHRZiqo_Aw",
+        "institutional": false
+      },
+      {
+        "channel": "Notre Terre",
+        "views": 640344,
+        "videos": 8,
+        "channel_id": "UCAqdvTTjujhOlAVmMJ3ys2Q",
+        "institutional": false
+      }
+    ],
+    "SCIENCE_PEDAGOGIE": [
+      {
+        "channel": "Balade Mentale",
+        "views": 8155973,
+        "videos": 21,
+        "channel_id": "UCS_7tplUgzJG4DhA16re5Yg",
+        "institutional": false
+      },
+      {
+        "channel": "Le Réveilleur",
+        "views": 7659095,
+        "videos": 69,
+        "channel_id": "UC1EacOJoqsKaYxaDomTCTEQ",
+        "institutional": false
+      },
+      {
+        "channel": "Notre Terre",
+        "views": 6633544,
+        "videos": 39,
+        "channel_id": "UCAqdvTTjujhOlAVmMJ3ys2Q",
+        "institutional": false
+      },
+      {
+        "channel": "Sabine Hossenfelder",
+        "views": 6168491,
+        "videos": 12,
+        "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+        "institutional": false
+      },
+      {
+        "channel": "TF1 INFO",
+        "views": 5716980,
+        "videos": 27,
+        "channel_id": "UCsrPUA0ZSDCNZC6wyRlR7ZA",
+        "institutional": false
+      },
+      {
+        "channel": "LIMIT",
+        "views": 5345887,
+        "videos": 41,
+        "channel_id": "UCAbFIrKZCYdKucQYnhxWnrA",
+        "institutional": false
+      },
+      {
+        "channel": "HugoDécrypte - Grands formats",
+        "views": 4437035,
+        "videos": 5,
+        "channel_id": "UCUo1RqYV8tGjV38sQ8S5p9A",
+        "institutional": false
+      },
+      {
+        "channel": "M6 Info",
+        "views": 3811021,
+        "videos": 17,
+        "channel_id": "UC3Sk_YpjPd_Lz_oPQfhPQXQ",
+        "institutional": false
+      }
+    ],
+    "SOLUTIONS_TECHNO": [
+      {
+        "channel": "Enedis",
+        "views": 35076071,
+        "videos": 5,
+        "channel_id": "UCMzqWRZDxw6yOgKjP7-VraQ",
+        "institutional": true
+      },
+      {
+        "channel": "Undecided with Matt Ferrell",
+        "views": 13098293,
+        "videos": 19,
+        "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+        "institutional": false
+      },
+      {
+        "channel": "Ministères Écologie Territoires",
+        "views": 12212578,
+        "videos": 6,
+        "channel_id": "UCe2_2k-_81Y4RNKBnlMjrLg",
+        "institutional": true
+      },
+      {
+        "channel": "BANQUE DES TERRITOIRES",
+        "views": 8141684,
+        "videos": 5,
+        "channel_id": "UCEYjEYFApmoF217Ks1Tg4Sw",
+        "institutional": true
+      },
+      {
+        "channel": "AFD - Agence française de développement",
+        "views": 6284567,
+        "videos": 22,
+        "channel_id": "UCJBmrvimOZNMCKoYr2k5_Yw",
+        "institutional": true
+      },
+      {
+        "channel": "Hellio",
+        "views": 3728210,
+        "videos": 14,
+        "channel_id": "UCIjo06T9erEvYBXVIDUCxTA",
+        "institutional": true
+      },
+      {
+        "channel": "Verso",
+        "views": 2388529,
+        "videos": 26,
+        "channel_id": "UCjPldC43lZOfiyzClqGDSAg",
+        "institutional": false
+      },
+      {
+        "channel": "Le monde de Gourdil",
+        "views": 1626159,
+        "videos": 13,
+        "channel_id": "UC8vgo4yOofSDuxVRpDMLm6g",
+        "institutional": false
+      }
+    ],
+    "SCEPTICISME_MINIMISATION": [
+      {
+        "channel": "Idriss J. Aberkane",
+        "views": 2170688,
+        "videos": 6,
+        "channel_id": "UCsBPtU4hJkWNQ4kA-IsxgKw",
+        "institutional": false
+      },
+      {
+        "channel": "Le Raptor",
+        "views": 1017689,
+        "videos": 1,
+        "channel_id": "UC_i-uMpN1lEyuoUGDq-dajQ",
+        "institutional": false
+      },
+      {
+        "channel": "Clintel",
+        "views": 513885,
+        "videos": 1,
+        "channel_id": "UCkSklqneieEpRjKSISyItHQ",
+        "institutional": false
+      },
+      {
+        "channel": "Tocsin",
+        "views": 396058,
+        "videos": 7,
+        "channel_id": "UCLuLxfwPrxe4wUPkdYM_VDA",
+        "institutional": false
+      },
+      {
+        "channel": "GÉOPOLITIQUE PROFONDE",
+        "views": 322658,
+        "videos": 8,
+        "channel_id": "UCwAS7bowP5S5P44eP_f7W0Q",
+        "institutional": false
+      },
+      {
+        "channel": "Chaîne officielle TVL",
+        "views": 260760,
+        "videos": 4,
+        "channel_id": "UCyamXi0qEQJghCjJbj__aWQ",
+        "institutional": false
+      },
+      {
+        "channel": "Tocsin+",
+        "views": 197803,
+        "videos": 3,
+        "channel_id": "UC2l-hWilpAHhOXS1nsGveIw",
+        "institutional": false
+      },
+      {
+        "channel": "AZ FrenchClips",
+        "views": 181149,
+        "videos": 1,
+        "channel_id": "UCaGxOa830xkX4L8i9e_OVSA",
+        "institutional": false
+      }
+    ],
+    "CRITIQUE_INACTION": [
+      {
+        "channel": "Et tout le monde s'en fout",
+        "views": 5966892,
+        "videos": 13,
+        "channel_id": "UC-2EkisRV8h9KsHpslQ1gXA",
+        "institutional": false
+      },
+      {
+        "channel": "LIMIT",
+        "views": 4363898,
+        "videos": 52,
+        "channel_id": "UCAbFIrKZCYdKucQYnhxWnrA",
+        "institutional": false
+      },
+      {
+        "channel": "Vert, le média qui annonce la couleur !",
+        "views": 4009827,
+        "videos": 25,
+        "channel_id": "UCQvVZr4LCFW94hLuzLkiNfQ",
+        "institutional": false
+      },
+      {
+        "channel": "BLAST, Le souffle de l'info",
+        "views": 3527658,
+        "videos": 25,
+        "channel_id": "UC__xRB5L4toU9yYawt_lIKg",
+        "institutional": false
+      },
+      {
+        "channel": "Éthique et tac",
+        "views": 3305552,
+        "videos": 47,
+        "channel_id": "UCa7klG2eM9MHpOfOvxMQpGw",
+        "institutional": false
+      },
+      {
+        "channel": "ÉLUCID",
+        "views": 2594929,
+        "videos": 12,
+        "channel_id": "UCkgO4A3Fzm5D9Xu1Y_4vCKQ",
+        "institutional": false
+      },
+      {
+        "channel": "Vakita",
+        "views": 2244834,
+        "videos": 8,
+        "channel_id": "UCNxf1DGubi4YhCtsgD7M9Iw",
+        "institutional": false
+      },
+      {
+        "channel": "Sur le front avec Hugo Clément -France Télévisions",
+        "views": 1841076,
+        "videos": 25,
+        "channel_id": "UClGvEUx13urexHOyrGpAqMA",
+        "institutional": false
+      }
+    ],
+    "OPPOSITION_ECOLOGIE": [
+      {
+        "channel": "La France en Colère",
+        "views": 7291263,
+        "videos": 26,
+        "channel_id": "UCV9hPjCcjFJEFqqzfT9CyCQ",
+        "institutional": false
+      },
+      {
+        "channel": "RMC",
+        "views": 3140995,
+        "videos": 10,
+        "channel_id": "UCgGb7tN3tIH5_Kk05D1J_bA",
+        "institutional": false
+      },
+      {
+        "channel": "Francophile",
+        "views": 3065558,
+        "videos": 13,
+        "channel_id": "UCW6A5KSE3YhRrlIniWwmKzg",
+        "institutional": false
+      },
+      {
+        "channel": "Les Grandes Gueules",
+        "views": 1901754,
+        "videos": 19,
+        "channel_id": "UCodywH1F_oZj2W5oEGFHi7A",
+        "institutional": false
+      },
+      {
+        "channel": "PIPEAU TV - ACTUALITES",
+        "views": 1766430,
+        "videos": 1,
+        "channel_id": "UCI-ool34R3l8dLctYQLjGsg",
+        "institutional": false
+      },
+      {
+        "channel": "Idriss J. Aberkane",
+        "views": 1567110,
+        "videos": 5,
+        "channel_id": "UCsBPtU4hJkWNQ4kA-IsxgKw",
+        "institutional": false
+      },
+      {
+        "channel": "pT actualités",
+        "views": 1524469,
+        "videos": 9,
+        "channel_id": "UCh9eHpM2cp9l-DieRFRU2_w",
+        "institutional": false
+      },
+      {
+        "channel": "Le Raptor",
+        "views": 1405488,
+        "videos": 1,
+        "channel_id": "UC_i-uMpN1lEyuoUGDq-dajQ",
+        "institutional": false
+      }
+    ],
+    "ANXIETE_EFFONDREMENT": [
+      {
+        "channel": "LIMIT",
+        "views": 1724370,
+        "videos": 13,
+        "channel_id": "UCAbFIrKZCYdKucQYnhxWnrA",
+        "institutional": false
+      },
+      {
+        "channel": "Greenletter Club",
+        "views": 1169187,
+        "videos": 5,
+        "channel_id": "UC_GM-TPeAx9kKS1CaPwGPow",
+        "institutional": false
+      },
+      {
+        "channel": "ÉLUCID",
+        "views": 1058722,
+        "videos": 6,
+        "channel_id": "UCkgO4A3Fzm5D9Xu1Y_4vCKQ",
+        "institutional": false
+      },
+      {
+        "channel": "Et tout le monde s'en fout",
+        "views": 891472,
+        "videos": 2,
+        "channel_id": "UC-2EkisRV8h9KsHpslQ1gXA",
+        "institutional": false
+      },
+      {
+        "channel": "Poisson Fécond",
+        "views": 659389,
+        "videos": 1,
+        "channel_id": "UC4ii4_aeS8iOFzsHuhJTq2w",
+        "institutional": false
+      },
+      {
+        "channel": "Éthique et tac",
+        "views": 659019,
+        "videos": 11,
+        "channel_id": "UCa7klG2eM9MHpOfOvxMQpGw",
+        "institutional": false
+      },
+      {
+        "channel": "Notre Terre",
+        "views": 595740,
+        "videos": 4,
+        "channel_id": "UCAqdvTTjujhOlAVmMJ3ys2Q",
+        "institutional": false
+      },
+      {
+        "channel": "Clique TV",
+        "views": 528786,
+        "videos": 1,
+        "channel_id": "UCmHfCD8c8CmjlyWa8d4GObg",
+        "institutional": false
+      }
+    ]
+  },
+  "tonalite_by_narrative": [
+    {
+      "narratif": "URGENCE_MOBILISATION",
+      "urgence": 138,
+      "anxiété": 23,
+      "neutre": 4,
+      "optimisme": 10,
+      "colère": 0,
+      "moquerie": 3
+    },
+    {
+      "narratif": "SCIENCE_PEDAGOGIE",
+      "urgence": 44,
+      "anxiété": 62,
+      "neutre": 682,
+      "optimisme": 0,
+      "colère": 3,
+      "moquerie": 9
+    },
+    {
+      "narratif": "SOLUTIONS_TECHNO",
+      "urgence": 12,
+      "anxiété": 3,
+      "neutre": 257,
+      "optimisme": 213,
+      "colère": 0,
+      "moquerie": 1
+    },
+    {
+      "narratif": "SCEPTICISME_MINIMISATION",
+      "urgence": 0,
+      "anxiété": 2,
+      "neutre": 10,
+      "optimisme": 0,
+      "colère": 28,
+      "moquerie": 13
+    },
+    {
+      "narratif": "CRITIQUE_INACTION",
+      "urgence": 45,
+      "anxiété": 14,
+      "neutre": 82,
+      "optimisme": 0,
+      "colère": 357,
+      "moquerie": 14
+    },
+    {
+      "narratif": "OPPOSITION_ECOLOGIE",
+      "urgence": 0,
+      "anxiété": 2,
+      "neutre": 30,
+      "optimisme": 0,
+      "colère": 204,
+      "moquerie": 50
+    },
+    {
+      "narratif": "ANXIETE_EFFONDREMENT",
+      "urgence": 0,
+      "anxiété": 64,
+      "neutre": 6,
+      "optimisme": 0,
+      "colère": 0,
+      "moquerie": 0
+    }
+  ],
+  "audience_evolution": [
+    {
+      "quarter": "2015-Q4",
+      "analyzed_videos": 5,
+      "analyzed_views": 3124735,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2017-Q1",
+      "analyzed_videos": 3,
+      "analyzed_views": 1491012,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2017-Q3",
+      "analyzed_videos": 1,
+      "analyzed_views": 1000677,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2017-Q4",
+      "analyzed_videos": 3,
+      "analyzed_views": 1222113,
+      "hostile_views": 165200,
+      "hostile_pct": 13.5
+    },
+    {
+      "quarter": "2018-Q2",
+      "analyzed_videos": 7,
+      "analyzed_views": 1973941,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2018-Q3",
+      "analyzed_videos": 3,
+      "analyzed_views": 1048136,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2018-Q4",
+      "analyzed_videos": 5,
+      "analyzed_views": 1129954,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2019-Q1",
+      "analyzed_videos": 2,
+      "analyzed_views": 1706347,
+      "hostile_views": 1405488,
+      "hostile_pct": 82.4
+    },
+    {
+      "quarter": "2019-Q4",
+      "analyzed_videos": 5,
+      "analyzed_views": 1065841,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2020-Q2",
+      "analyzed_videos": 6,
+      "analyzed_views": 2605867,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2020-Q4",
+      "analyzed_videos": 3,
+      "analyzed_views": 1129381,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2021-Q1",
+      "analyzed_videos": 6,
+      "analyzed_views": 905700,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2021-Q2",
+      "analyzed_videos": 5,
+      "analyzed_views": 1086077,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2021-Q4",
+      "analyzed_videos": 7,
+      "analyzed_views": 2275689,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2022-Q1",
+      "analyzed_videos": 10,
+      "analyzed_views": 1633830,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2022-Q2",
+      "analyzed_videos": 12,
+      "analyzed_views": 9364321,
+      "hostile_views": 98650,
+      "hostile_pct": 1.1
+    },
+    {
+      "quarter": "2022-Q3",
+      "analyzed_videos": 8,
+      "analyzed_views": 5142764,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2022-Q4",
+      "analyzed_videos": 10,
+      "analyzed_views": 1754584,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2023-Q1",
+      "analyzed_videos": 16,
+      "analyzed_views": 4809348,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2023-Q2",
+      "analyzed_videos": 8,
+      "analyzed_views": 4910018,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2023-Q3",
+      "analyzed_videos": 17,
+      "analyzed_views": 8677681,
+      "hostile_views": 752880,
+      "hostile_pct": 8.7
+    },
+    {
+      "quarter": "2023-Q4",
+      "analyzed_videos": 17,
+      "analyzed_views": 9010434,
+      "hostile_views": 435347,
+      "hostile_pct": 4.8
+    },
+    {
+      "quarter": "2024-Q1",
+      "analyzed_videos": 14,
+      "analyzed_views": 5020666,
+      "hostile_views": 640609,
+      "hostile_pct": 12.8
+    },
+    {
+      "quarter": "2024-Q2",
+      "analyzed_videos": 13,
+      "analyzed_views": 4058890,
+      "hostile_views": 0,
+      "hostile_pct": 0.0
+    },
+    {
+      "quarter": "2024-Q3",
+      "analyzed_videos": 18,
+      "analyzed_views": 8851473,
+      "hostile_views": 1754197,
+      "hostile_pct": 19.8
+    },
+    {
+      "quarter": "2024-Q4",
+      "analyzed_videos": 26,
+      "analyzed_views": 6116894,
+      "hostile_views": 464983,
+      "hostile_pct": 7.6
+    },
+    {
+      "quarter": "2025-Q1",
+      "analyzed_videos": 54,
+      "analyzed_views": 14835068,
+      "hostile_views": 1987451,
+      "hostile_pct": 13.4
+    },
+    {
+      "quarter": "2025-Q2",
+      "analyzed_videos": 46,
+      "analyzed_views": 17629378,
+      "hostile_views": 1732814,
+      "hostile_pct": 9.8
+    },
+    {
+      "quarter": "2025-Q3",
+      "analyzed_videos": 50,
+      "analyzed_views": 14851799,
+      "hostile_views": 6825441,
+      "hostile_pct": 46.0
+    },
+    {
+      "quarter": "2025-Q4",
+      "analyzed_videos": 58,
+      "analyzed_views": 14726659,
+      "hostile_views": 4051921,
+      "hostile_pct": 27.5
+    },
+    {
+      "quarter": "2026-Q1",
+      "analyzed_videos": 62,
+      "analyzed_views": 15302917,
+      "hostile_views": 6758600,
+      "hostile_pct": 44.2
+    },
+    {
+      "quarter": "2026-Q2",
+      "analyzed_videos": 236,
+      "analyzed_views": 56975609,
+      "hostile_views": 13349826,
+      "hostile_pct": 23.4
+    }
+  ]
+}
