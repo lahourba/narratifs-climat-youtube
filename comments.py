@@ -48,11 +48,38 @@ COMMENT_WORD_CAP = 45      # tronque chaque commentaire
 
 # Climats possibles de la section commentaires (≠ narratif de la vidéo).
 COMMENT_CLIMATES = [
-    "adhesion_science", "scepticisme_deni", "hostilite_ecologie",
+    "adhesion_science", "critique_methode", "colere_inaction",
+    "scepticisme_deni", "hostilite_ecologie",
     "complotisme", "anxiete", "moquerie", "neutre", "hors_sujet", "mixte",
 ]
 
+# Définitions injectées dans le prompt. Leçon du kappa vidéo : sans définitions
+# ni règles de tranchement, le modèle range tout commentaire négatif sous une
+# vidéo « verte » dans hostilite_ecologie (ex. : des connaisseurs qui critiquent
+# une monoculture AU NOM de la biodiversité, ou la colère contre un État qui
+# gère mal une canicule).
+CLIMATE_DEFINITIONS = """Définitions :
+- adhesion_science : accepte la réalité du changement climatique, soutient ou complète la vidéo.
+- critique_methode : négatif envers la SOLUTION présentée, AU NOM de l'environnement (monoculture, biodiversité, greenwashing, « fausse bonne idée »). Critiquer une solution n'est PAS être hostile à l'écologie.
+- colere_inaction : colère contre l'État / les responsables parce qu'ils n'en font PAS ASSEZ (adaptation, prévention, moyens). Réclame plus d'action.
+- scepticisme_deni : nie ou minimise le changement climatique ou son origine humaine.
+- hostilite_ecologie : s'oppose à l'action climatique, aux politiques écologiques ou aux écologistes EN TANT QUE TELS (« écologie punitive », rejet des ZFE/éoliennes parce qu'écolos).
+- complotisme : y voit une manipulation, un agenda caché.
+- anxiete : peur, fatalisme, éco-anxiété dominants.
+- moquerie : ironie / dérision dominante.
+- neutre : factuel, questions, sans position nette.
+- mixte : plusieurs camps s'affrontent sans dominante.
+- hors_sujet : les commentaires ne parlent ni de climat ni d'écologie.
+
+Règles de tranchement :
+- hostilite_ecologie SEULEMENT si l'hostilité vise l'écologie ou l'action climatique ELLE-MÊME.
+- Colère contre la gestion d'une canicule ou le manque de moyens → colere_inaction.
+- Critique d'un projet « vert » pour ses dégâts environnementaux → critique_methode.
+- Défiance envers médias/institutions sans rejet de l'écologie → neutre, mixte ou hors_sujet selon le contenu."""
+
 PROMPT = """Tu analyses le CLIMAT DE LA SECTION COMMENTAIRES d'une vidéo YouTube sur le climat — c'est-à-dire la réaction de l'audience, PAS le contenu de la vidéo.
+
+{definitions}
 
 Voici le titre de la vidéo et un échantillon de ses commentaires les plus visibles.
 Réponds UNIQUEMENT par un objet JSON valide :
@@ -130,7 +157,8 @@ def extract_json(text: str):
 def classify_comments(complete, title: str, comments: list):
     """Classe le climat de la section. Retourne un dict ou {'error': ...}."""
     joined = "\n".join(f"- {c}" for c in comments)
-    prompt = PROMPT.format(climates="|".join(COMMENT_CLIMATES), title=title, comments=joined)
+    prompt = PROMPT.format(definitions=CLIMATE_DEFINITIONS,
+                           climates="|".join(COMMENT_CLIMATES), title=title, comments=joined)
     MAX_ATTEMPTS = 6
     for attempt in range(MAX_ATTEMPTS):
         try:
@@ -157,6 +185,9 @@ def main():
     parser.add_argument("--ids", type=str, default=None, help="Liste de video_id séparés par des virgules.")
     parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS,
                         help=f"Vidéos traitées en parallèle (défaut {DEFAULT_WORKERS}).")
+    parser.add_argument("--force", action="store_true",
+                        help="Re-analyse tout (re-télécharge les commentaires et reclasse), "
+                             "utile après un changement de taxonomie/prompt.")
     args = parser.parse_args()
 
     yt_key = os.environ.get("YOUTUBE_API_KEY")
@@ -197,6 +228,8 @@ def main():
     existing = {r["video_id"]: r for r in (load_json(OUTPUT_FILE, default=[]) or [])}
 
     def is_done(v):
+        if args.force:
+            return False
         r = existing.get(v["video_id"])
         if not r:
             return False
@@ -239,7 +272,11 @@ def main():
                     log(f"  {done['n']}/{len(todo)}…")
                     save_json(OUTPUT_FILE, results)
 
-    out = results
+    # Fusion avec l'existant : les vidéos hors échantillon (--ids, --limit)
+    # sont conservées au lieu d'être écrasées.
+    merged = {r["video_id"]: r for r in existing.values()}
+    merged.update({r["video_id"]: r for r in results})
+    out = list(merged.values())
     save_json(OUTPUT_FILE, out)
 
     # Export slim pour le dashboard : dict keyé par video_id.

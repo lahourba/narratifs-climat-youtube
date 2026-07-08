@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T21:14:32Z",
+    "generated_at": "2026-07-08T14:12:35Z",
     "total_videos_collected": 66314,
     "total_videos_classified": 2385,
     "total_views": 348002160,
@@ -1125,8 +1125,8 @@
       "quarter": "2017-Q4",
       "analyzed_videos": 3,
       "analyzed_views": 1222113,
-      "hostile_views": 165200,
-      "hostile_pct": 13.5
+      "hostile_views": 0,
+      "hostile_pct": 0.0
     },
     {
       "quarter": "2018-Q2",
@@ -1153,8 +1153,8 @@
       "quarter": "2019-Q1",
       "analyzed_videos": 2,
       "analyzed_views": 1706347,
-      "hostile_views": 1405488,
-      "hostile_pct": 82.4
+      "hostile_views": 0,
+      "hostile_pct": 0.0
     },
     {
       "quarter": "2019-Q4",
@@ -1209,8 +1209,8 @@
       "quarter": "2022-Q2",
       "analyzed_videos": 12,
       "analyzed_views": 9364321,
-      "hostile_views": 98650,
-      "hostile_pct": 1.1
+      "hostile_views": 0,
+      "hostile_pct": 0.0
     },
     {
       "quarter": "2022-Q3",
@@ -1258,8 +1258,8 @@
       "quarter": "2024-Q1",
       "analyzed_videos": 14,
       "analyzed_views": 5020666,
-      "hostile_views": 640609,
-      "hostile_pct": 12.8
+      "hostile_views": 513885,
+      "hostile_pct": 10.2
     },
     {
       "quarter": "2024-Q2",
@@ -1272,57 +1272,57 @@
       "quarter": "2024-Q3",
       "analyzed_videos": 18,
       "analyzed_views": 8851473,
-      "hostile_views": 1754197,
-      "hostile_pct": 19.8
+      "hostile_views": 1735013,
+      "hostile_pct": 19.6
     },
     {
       "quarter": "2024-Q4",
       "analyzed_videos": 26,
       "analyzed_views": 6116894,
-      "hostile_views": 464983,
-      "hostile_pct": 7.6
+      "hostile_views": 453787,
+      "hostile_pct": 7.4
     },
     {
       "quarter": "2025-Q1",
       "analyzed_videos": 54,
       "analyzed_views": 14835068,
-      "hostile_views": 1987451,
-      "hostile_pct": 13.4
+      "hostile_views": 242310,
+      "hostile_pct": 1.6
     },
     {
       "quarter": "2025-Q2",
       "analyzed_videos": 46,
       "analyzed_views": 17629378,
-      "hostile_views": 1732814,
-      "hostile_pct": 9.8
+      "hostile_views": 1122965,
+      "hostile_pct": 6.4
     },
     {
       "quarter": "2025-Q3",
       "analyzed_videos": 50,
       "analyzed_views": 14851799,
-      "hostile_views": 6825441,
-      "hostile_pct": 46.0
+      "hostile_views": 4289509,
+      "hostile_pct": 28.9
     },
     {
       "quarter": "2025-Q4",
       "analyzed_videos": 58,
       "analyzed_views": 14726659,
-      "hostile_views": 4051921,
-      "hostile_pct": 27.5
+      "hostile_views": 3031888,
+      "hostile_pct": 20.6
     },
     {
       "quarter": "2026-Q1",
       "analyzed_videos": 62,
       "analyzed_views": 15302917,
-      "hostile_views": 6758600,
-      "hostile_pct": 44.2
+      "hostile_views": 2792745,
+      "hostile_pct": 18.2
     },
     {
       "quarter": "2026-Q2",
       "analyzed_videos": 236,
       "analyzed_views": 56975609,
-      "hostile_views": 13349826,
-      "hostile_pct": 23.4
+      "hostile_views": 5284331,
+      "hostile_pct": 9.3
     }
   ]
 }

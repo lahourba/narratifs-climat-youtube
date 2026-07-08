@@ -70,6 +70,8 @@ export const TONE_COLORS: Record<string, string> = {
 // --- Climat de la section commentaires (dimension « audience ») ---
 export const COMMENT_CLIMATE_LABELS: Record<string, string> = {
   adhesion_science: "Adhésion à la science",
+  critique_methode: "Critique de la méthode",
+  colere_inaction: "Colère contre l'inaction",
   scepticisme_deni: "Scepticisme / déni",
   hostilite_ecologie: "Hostilité à l'écologie",
   complotisme: "Complotisme",
@@ -82,6 +84,8 @@ export const COMMENT_CLIMATE_LABELS: Record<string, string> = {
 
 export const COMMENT_CLIMATE_COLORS: Record<string, string> = {
   adhesion_science: "#4a7c59",
+  critique_methode: "#7d9a5a", // vert olive : critique une solution AU NOM de l'environnement
+  colere_inaction: "#6b5b95", // violet : pendant côté commentaires de CRITIQUE_INACTION
   scepticisme_deni: "#c08a3e",
   hostilite_ecologie: "#c1454f",
   complotisme: "#7c3aed",

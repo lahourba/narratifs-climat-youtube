@@ -27,6 +27,8 @@ import {
 
 const CLIMATE_ORDER = [
   "adhesion_science",
+  "critique_methode",
+  "colere_inaction",
   "neutre",
   "mixte",
   "moquerie",
