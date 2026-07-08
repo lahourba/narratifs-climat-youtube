@@ -37,14 +37,15 @@ const CLIMATE_ORDER = [
   "hors_sujet",
 ];
 
-// Narratifs « du côté de la science / de l'action » — pour mesurer l'écart
-// avec une audience hostile.
+// Narratifs qui DÉFENDENT la science ou l'action dans leur propre discours.
+// CRITIQUE_INACTION et ANXIETE_EFFONDREMENT sont volontairement exclus : sur
+// une enquête à charge (greentech en faillite, violences en manif…), des
+// commentaires hostiles vont souvent DANS LE SENS de la vidéo — ce n'est pas
+// un écart vidéo ↔ audience, c'est une convergence.
 const SUPPORTIVE = new Set<NarrativeKey>([
   "SCIENCE_PEDAGOGIE",
   "URGENCE_MOBILISATION",
   "SOLUTIONS_TECHNO",
-  "CRITIQUE_INACTION",
-  "ANXIETE_EFFONDREMENT",
 ]);
 
 export default function Audience({
@@ -132,7 +133,7 @@ export default function Audience({
         />
         <Stat
           value={`${Math.round((100 * supportiveHostileViews) / supportiveViews)}%`}
-          label="des vues de contenu pro-science / pro-action baignent pourtant dans des commentaires hostiles"
+          label="des vues de contenu qui défend la science ou l'action (pédagogie, urgence, solutions) baignent pourtant dans des commentaires hostiles"
           accent
         />
         <Stat
@@ -259,8 +260,14 @@ export default function Audience({
 
       {/* Top divergences */}
       <h3 className="text-base font-semibold text-stone-900 mt-8 mb-3">
-        Vidéos « pro-climat » aux commentaires les plus hostiles
+        Vidéos qui défendent la science ou l'action, aux commentaires les plus hostiles
       </h3>
+      <p className="text-sm text-stone-500 -mt-2 mb-3 max-w-2xl">
+        Pédagogie, urgence ou solutions dans la vidéo — scepticisme, hostilité ou
+        complotisme en dessous. Les narratifs critiques (critique de l'inaction,
+        effondrement) sont exclus&nbsp;: sur une enquête à charge, des commentaires
+        hostiles vont souvent dans le sens de la vidéo, pas contre elle.
+      </p>
       <div className="space-y-2">
         {divergences.map((r) => (
           <a
